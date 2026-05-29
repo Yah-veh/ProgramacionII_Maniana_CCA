@@ -1,0 +1,8 @@
+Clear		Limpiar
+Cd		movernos entre carpetas
+cd ..		atras
+ls		lista o ver archivos
+pwd 		Ubi de directorio actual
+mkdir		crear carpeta
+Cat		Ver archivo
+Nano		Crear o editar archivos
