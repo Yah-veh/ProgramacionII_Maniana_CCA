@@ -10,4 +10,15 @@ rm -rf		eliminar carpeta
 
 
 Comandos Git
-Git clone	clonar repositorios
+
+//clonar repositorios: Este comando me permite copiar repositorios
+Git clone
+
+//Comando para subir archivos
+git add .
+git commit - "Mensaje"		Indica los cambios realizados
+git push			Sube los archivos
+
+//Comandos para actualizar
+Primero Ingresar a la carpeta Main y luego
+git pull
