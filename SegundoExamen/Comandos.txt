@@ -6,3 +6,8 @@ pwd 		Ubi de directorio actual
 mkdir		crear carpeta
 Cat		Ver archivo
 Nano		Crear o editar archivos
+rm -rf		eliminar carpeta
+
+
+Comandos Git
+Git clone	clonar repositorios
