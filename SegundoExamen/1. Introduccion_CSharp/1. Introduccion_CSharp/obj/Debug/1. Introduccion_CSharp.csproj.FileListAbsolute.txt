@@ -1,0 +1,8 @@
+G:\Mi unidad\ProgramacionCCA\ProgramacionII_Maniana_CCA\SegundoExamen\1. Introduccion_CSharp\1. Introduccion_CSharp\bin\Debug\_1.Introduccion_CSharp.exe.config
+G:\Mi unidad\ProgramacionCCA\ProgramacionII_Maniana_CCA\SegundoExamen\1. Introduccion_CSharp\1. Introduccion_CSharp\bin\Debug\_1.Introduccion_CSharp.exe
+G:\Mi unidad\ProgramacionCCA\ProgramacionII_Maniana_CCA\SegundoExamen\1. Introduccion_CSharp\1. Introduccion_CSharp\bin\Debug\_1.Introduccion_CSharp.pdb
+G:\Mi unidad\ProgramacionCCA\ProgramacionII_Maniana_CCA\SegundoExamen\1. Introduccion_CSharp\1. Introduccion_CSharp\obj\Debug\1. Introduccion_CSharp.csproj.AssemblyReference.cache
+G:\Mi unidad\ProgramacionCCA\ProgramacionII_Maniana_CCA\SegundoExamen\1. Introduccion_CSharp\1. Introduccion_CSharp\obj\Debug\1. Introduccion_CSharp.csproj.CoreCompileInputs.cache
+G:\Mi unidad\ProgramacionCCA\ProgramacionII_Maniana_CCA\SegundoExamen\1. Introduccion_CSharp\1. Introduccion_CSharp\obj\Debug\_1.Introduccion_CSharp.exe
+G:\Mi unidad\ProgramacionCCA\ProgramacionII_Maniana_CCA\SegundoExamen\1. Introduccion_CSharp\1. Introduccion_CSharp\obj\Debug\_1.Introduccion_CSharp.pdb
+G:\Mi unidad\ProgramacionCCA\ProgramacionII_Maniana_CCA\SegundoExamen\1. Introduccion_CSharp\1. Introduccion_CSharp\obj\Debug\_1.Introduccion_CSharp.exe.config
