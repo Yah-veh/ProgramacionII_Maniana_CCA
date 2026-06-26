@@ -1,0 +1,8 @@
+G:\Mi unidad\ProgramacionCCA\ProgramacionII_Maniana_CCA\SegundoExamen\2. Condicionales\2. Condicionales\bin\Debug\_2.Condicionales.exe.config
+G:\Mi unidad\ProgramacionCCA\ProgramacionII_Maniana_CCA\SegundoExamen\2. Condicionales\2. Condicionales\bin\Debug\_2.Condicionales.exe
+G:\Mi unidad\ProgramacionCCA\ProgramacionII_Maniana_CCA\SegundoExamen\2. Condicionales\2. Condicionales\bin\Debug\_2.Condicionales.pdb
+G:\Mi unidad\ProgramacionCCA\ProgramacionII_Maniana_CCA\SegundoExamen\2. Condicionales\2. Condicionales\obj\Debug\2. Condicionales.csproj.AssemblyReference.cache
+G:\Mi unidad\ProgramacionCCA\ProgramacionII_Maniana_CCA\SegundoExamen\2. Condicionales\2. Condicionales\obj\Debug\2. Condicionales.csproj.CoreCompileInputs.cache
+G:\Mi unidad\ProgramacionCCA\ProgramacionII_Maniana_CCA\SegundoExamen\2. Condicionales\2. Condicionales\obj\Debug\_2.Condicionales.exe
+G:\Mi unidad\ProgramacionCCA\ProgramacionII_Maniana_CCA\SegundoExamen\2. Condicionales\2. Condicionales\obj\Debug\_2.Condicionales.pdb
+G:\Mi unidad\ProgramacionCCA\ProgramacionII_Maniana_CCA\SegundoExamen\2. Condicionales\2. Condicionales\obj\Debug\_2.Condicionales.exe.config

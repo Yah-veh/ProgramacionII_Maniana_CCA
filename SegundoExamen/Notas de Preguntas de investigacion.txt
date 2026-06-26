@@ -1,0 +1,14 @@
+	Teorico		Practico
+Anahi	0				
+Gabo	0		
+dennis	20		
+Yerko	20
+Pablo	30		
+Juanito	20
+Erick	10
+Jhona	30
+Ever	15
+Rodri	30
+
+
+	
