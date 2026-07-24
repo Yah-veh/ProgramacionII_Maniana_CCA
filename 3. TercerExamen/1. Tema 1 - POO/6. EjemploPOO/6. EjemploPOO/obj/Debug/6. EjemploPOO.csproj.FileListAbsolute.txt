@@ -1,0 +1,8 @@
+G:\Mi unidad\ProgramacionCCA\ProgramacionII_Maniana_CCA\3. TercerExamen\6. EjemploPOO\6. EjemploPOO\bin\Debug\_6.EjemploPOO.exe.config
+G:\Mi unidad\ProgramacionCCA\ProgramacionII_Maniana_CCA\3. TercerExamen\6. EjemploPOO\6. EjemploPOO\bin\Debug\_6.EjemploPOO.exe
+G:\Mi unidad\ProgramacionCCA\ProgramacionII_Maniana_CCA\3. TercerExamen\6. EjemploPOO\6. EjemploPOO\bin\Debug\_6.EjemploPOO.pdb
+G:\Mi unidad\ProgramacionCCA\ProgramacionII_Maniana_CCA\3. TercerExamen\6. EjemploPOO\6. EjemploPOO\obj\Debug\6. EjemploPOO.csproj.AssemblyReference.cache
+G:\Mi unidad\ProgramacionCCA\ProgramacionII_Maniana_CCA\3. TercerExamen\6. EjemploPOO\6. EjemploPOO\obj\Debug\6. EjemploPOO.csproj.CoreCompileInputs.cache
+G:\Mi unidad\ProgramacionCCA\ProgramacionII_Maniana_CCA\3. TercerExamen\6. EjemploPOO\6. EjemploPOO\obj\Debug\_6.EjemploPOO.exe
+G:\Mi unidad\ProgramacionCCA\ProgramacionII_Maniana_CCA\3. TercerExamen\6. EjemploPOO\6. EjemploPOO\obj\Debug\_6.EjemploPOO.pdb
+G:\Mi unidad\ProgramacionCCA\ProgramacionII_Maniana_CCA\3. TercerExamen\6. EjemploPOO\6. EjemploPOO\obj\Debug\_6.EjemploPOO.exe.config

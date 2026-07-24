@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\Mi unidad\\ProgramacionCCA\\ProgramacionII_Maniana_CCA\\3. TercerExamen\\7. EjemploPOO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9FC1A705-C07F-490F-A859-61DCFC8988F2}|7. EjemploPOO\\7. EjemploPOO.csproj|g:\\mi unidad\\programacioncca\\programacionii_maniana_cca\\3. tercerexamen\\7. ejemplopoo\\7. ejemplopoo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FC1A705-C07F-490F-A859-61DCFC8988F2}|7. EjemploPOO\\7. EjemploPOO.csproj|solutionrelative:7. ejemplopoo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\Mi unidad\\ProgramacionCCA\\ProgramacionII_Maniana_CCA\\3. TercerExamen\\7. EjemploPOO\\7. EjemploPOO\\Program.cs",
+              "RelativeDocumentMoniker": "7. EjemploPOO\\Program.cs",
+              "ToolTip": "G:\\Mi unidad\\ProgramacionCCA\\ProgramacionII_Maniana_CCA\\3. TercerExamen\\7. EjemploPOO\\7. EjemploPOO\\Program.cs",
+              "RelativeToolTip": "7. EjemploPOO\\Program.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAUwBIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-24T15:19:47.7Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

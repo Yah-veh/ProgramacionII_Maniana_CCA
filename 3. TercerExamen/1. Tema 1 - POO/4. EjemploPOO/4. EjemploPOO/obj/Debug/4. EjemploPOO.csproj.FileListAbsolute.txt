@@ -1,0 +1,8 @@
+G:\Mi unidad\ProgramacionCCA\ProgramacionII_Maniana_CCA\SegundoExamen\4. EjemploPOO\4. EjemploPOO\bin\Debug\_4.EjemploPOO.exe.config
+G:\Mi unidad\ProgramacionCCA\ProgramacionII_Maniana_CCA\SegundoExamen\4. EjemploPOO\4. EjemploPOO\bin\Debug\_4.EjemploPOO.exe
+G:\Mi unidad\ProgramacionCCA\ProgramacionII_Maniana_CCA\SegundoExamen\4. EjemploPOO\4. EjemploPOO\bin\Debug\_4.EjemploPOO.pdb
+G:\Mi unidad\ProgramacionCCA\ProgramacionII_Maniana_CCA\SegundoExamen\4. EjemploPOO\4. EjemploPOO\obj\Debug\4. EjemploPOO.csproj.AssemblyReference.cache
+G:\Mi unidad\ProgramacionCCA\ProgramacionII_Maniana_CCA\SegundoExamen\4. EjemploPOO\4. EjemploPOO\obj\Debug\4. EjemploPOO.csproj.CoreCompileInputs.cache
+G:\Mi unidad\ProgramacionCCA\ProgramacionII_Maniana_CCA\SegundoExamen\4. EjemploPOO\4. EjemploPOO\obj\Debug\_4.EjemploPOO.exe
+G:\Mi unidad\ProgramacionCCA\ProgramacionII_Maniana_CCA\SegundoExamen\4. EjemploPOO\4. EjemploPOO\obj\Debug\_4.EjemploPOO.pdb
+G:\Mi unidad\ProgramacionCCA\ProgramacionII_Maniana_CCA\SegundoExamen\4. EjemploPOO\4. EjemploPOO\obj\Debug\_4.EjemploPOO.exe.config
